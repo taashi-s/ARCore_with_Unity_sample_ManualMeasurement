@@ -32,3 +32,6 @@ sysinfo.txt
 .vs
 Release/
 Debug/
+
+
+.DS_Store
